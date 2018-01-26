@@ -16,7 +16,7 @@
     "character" : "personality",  
     "design":"http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
-    "numberofgames" : "sonic" : 70, "mario" : 353 //integer
+    "numberofgames" : "sonic" : 70, "mario" : 353 
      },  
      {
     "character" : "personality",  
