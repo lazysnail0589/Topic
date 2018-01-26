@@ -1,34 +1,34 @@
 {
-"sonicisbetter":[
+"sonicisbetter" : [
     {
-"character":"personality",  //string
-"design":"look",    //image
-"sidecharacters":[tails,ligui,knuckles,peaches,shadow], //array
-"numberofgames":"sonic:70,mario:353" //integer
+"character" : "personality",  //string
+"design" : "http://www.smashbros.com/us/characters/sonic.html",    //image
+"sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], //array
+"numberofgames" : "sonic" : 70, "mario" : 353 //integer
     }
     {
-    "character":"personality",  //string
-"design":"look",    //image
-"sidecharacters":[tails,ligui,knuckles,peaches,shadow], //array
-"numberofgames":"sonic:70,mario:353" //integer
+"character" : "personality",  //string
+"design":"http://www.smashbros.com/us/characters/sonic.html",    //image
+"sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], //array
+"numberofgames" : "sonic" : 70, "mario" : 353 //integer
      }        
      {
-    "character":"personality",  //string
-"design":"look",    //image
-"sidecharacters":[tails,ligui,knuckles,peaches,shadow], //array
-"numberofgames":"sonic:70,mario:353" //integer
+"character" : "personality",  //string
+"design":"http://www.smashbros.com/us/characters/sonic.html",    //image
+"sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], //array
+"numberofgames" : "sonic" : 70, "mario" : 353 //integer
      }    
      {
-    "character":"personality",  //string
-"design":"look",    //image
-"sidecharacters":[tails,ligui,knuckles,peaches,shadow], //array
-"numberofgames":"sonic:70,mario:353" //integer
+"character" : "personality",  //string
+"design":"http://www.smashbros.com/us/characters/sonic.html",    //image
+"sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], //array
+"numberofgames" : "sonic" : 70, "mario" : 353 //integer
      }        
      {
-    "character":"personality",  //string
-"design":"look",    //image
-"sidecharacters":[tails,ligui,knuckles,peaches,shadow], //array
-"numberofgames":"sonic:70,mario:353" //integer
+"character" : "personality",  //string
+"design":"http://www.smashbros.com/us/characters/sonic.html",    //image
+"sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], //array
+"numberofgames" : "sonic" : 70, "mario" : 353 //integer
      }        
     ]
 }
