@@ -4,31 +4,31 @@
     "character" : "personality",  
     "design" : "http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
-    "numberofgames" : "sonic : 70,mario : 353" 
+    "numberofgames" : 200, 
     },
     {
     "character" : "personality",  
     "design":"http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
-    "numberofgames" : "sonic : 70,mario : 353" 
+    "numberofgames" : 200,
      },       
      {
     "character" : "personality",  
     "design":"http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
-    "numberofgames" : "sonic : 70,mario : 353" 
+    "numberofgames" : 200, 
      },  
      {
     "character" : "personality",  
     "design":"http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
-    "numberofgames" : "sonic : 70, mario : 353" 
+    "numberofgames" : 200,
      },        
      {
     "character" : "personality",  
     "design":"http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
-    "numberofgames" : "sonic : 70, mario : 353"
+    "numberofgames" : 200,
      }        
     ]
 }
