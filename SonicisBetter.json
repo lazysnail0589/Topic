@@ -1,34 +1,26 @@
 {
     "sonicisbetter" : [
     {
+    "name" : "sonic",
     "character" : "personality",  
     "design" : "http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
     "numberofgames" : 200, 
+     
     },
     {
+    "name" : "sonic",
     "character" : "personality",  
     "design":"http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
     "numberofgames" : 200,
      },       
      {
+    "name" : "sonic",
     "character" : "personality",  
     "design":"http://www.smashbros.com/us/characters/sonic.html",    
     "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
     "numberofgames" : 200, 
-     },  
-     {
-    "character" : "personality",  
-    "design":"http://www.smashbros.com/us/characters/sonic.html",    
-    "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
-    "numberofgames" : 200,
-     },        
-     {
-    "character" : "personality",  
-    "design":"http://www.smashbros.com/us/characters/sonic.html",    
-    "sidecharacters": [ "tails", "ligui", "knuckles" , "peaches" , "shadow" ], 
-    "numberofgames" : 200,
-     }        
+     } 
     ]
 }
