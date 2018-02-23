@@ -16,4 +16,11 @@ achievements: [
 "GradeLevel" : "I took 4 10th grade classes in 9th grade."
 }
 ],
-
+  contact: [
+    {
+      "instagram" : "I_Just_Need_The_Money",
+      "twitter" : "@javenwilson0589",
+      "email" : "JavenWilson0589@gmail.com"
+    }
+]
+}
