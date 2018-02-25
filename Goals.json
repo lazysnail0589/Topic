@@ -1,5 +1,5 @@
 {
-  "mygoals": [
+  "myGoals": [
   {
   "college" : "Finish my bachelor's degree.", 
   "masters" : "Get my master degree.",
@@ -7,12 +7,12 @@
   "ACT" : "Get a 33 or above on my ACT score.",
   "Computer" : "Get a degree in Computer Science and Technology.",
   "mixtape" : "Before I get out of Highschool I want to make a mixtape.",
-  "music video" : "Before I get out of Highschool I want to make a music video."
+  "musicVideo" : "Before I get out of Highschool I want to make a music video."
   }
 ],
 "achievements": [
    {
-  "CollegeCredit" : "I took a college class in 9th grade.",
+  "collegeCredit" : "I took a college class in 9th grade.",
   "GradeLevel" : "I took 4 10th grade classes in 9th grade."
    } 
 ],
