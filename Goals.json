@@ -13,7 +13,7 @@
 "achievements": [
    {
   "collegeCredit" : "I took a college class in 9th grade.",
-  "GradeLevel" : "I took 4 10th grade classes in 9th grade."
+  "gradeLevel" : "I took 4 10th grade classes in 9th grade."
    } 
 ],
   "contact": [
