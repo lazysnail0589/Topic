@@ -1,23 +1,23 @@
 {
   "myGoals": [
-  {
-  "college" : "Finish my bachelor's degree.", 
-  "masters" : "Get my master degree.",
-  "AP" : "Complete 4 AP classes inn my highschool.",
-  "ACT" : "Get a 33 or above on my ACT score.",
-  "Computer" : "Get a degree in Computer Science and Technology.",
-  "mixtape" : "Before I get out of Highschool I want to make a mixtape.",
-  "musicVideo" : "Before I get out of Highschool I want to make a music video."
-  }
-],
-"achievements": [
    {
-  "collegeCredit" : "I took a college class in 9th grade.",
-  "gradeLevel" : "I took 4 10th grade classes in 9th grade."
+   "college" : "Finish my bachelor's degree.", 
+   "masters" : "Get my master degree.",
+   "AP" : "Complete 4 AP classes inn my highschool.",
+   "ACT" : "Get a 33 or above on my ACT score.",
+   "Computer" : "Get a degree in Computer Science and Technology.",
+   "mixtape" : "Before I get out of Highschool I want to make a mixtape.",
+   "musicVideo" : "Before I get out of Highschool I want to make a music video."
+   }
+ ],
+   "achievements": [
+   {
+   "collegeCredit" : "I took a college class in 9th grade.",
+   "gradeLevel" : "I took 4 10th grade classes in 9th grade."
    } 
-],
+ ],
   "contact": [
-    {
+   {
    "instagram" : "I_Just_Need_The_Money",
    "twitter" : "@javenwilson0589",
    "email" : "JavenWilson0589@gmail.com"
